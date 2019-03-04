@@ -3,7 +3,7 @@
 MODEL IS ABLE TO GO FOR 86% ACCURACY 
 
 system is under upgradation
-Please free to add your Skill
+Please fell free to add your Skill
 
-this is test bench , interment the accuracy level to 90% +
+this is test bench , incerment the accuracy level to 90% +
 
